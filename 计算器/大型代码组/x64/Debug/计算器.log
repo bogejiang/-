@@ -1,0 +1,6 @@
+﻿  总程序.c
+  猜数字.c
+D:\VS data\计算器\猜数字.c(5,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\VS data\计算器\猜数字.c(19,2): warning C4098: “numbergame”:“void”函数返回值
+  正在生成代码...
+  计算器.vcxproj -> D:\VS data\计算器\x64\Debug\大型代码组.exe
